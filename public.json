@@ -1,0 +1,17 @@
+[
+    {
+        "name": "My OnPerm",
+        "endpoint": "https://api.onperm.com",
+        "securityKey": "1234567890"
+    },
+     {
+        "name": "My OnPerm1",
+        "endpoint": "https://api.onperm.com",
+        "securityKey": "1234567890"
+    },
+    {
+        "name": "My OnPerm1",
+        "endpoint": "https://api.onperm.com",
+        "securityKey": "1234567890"
+    }
+]
