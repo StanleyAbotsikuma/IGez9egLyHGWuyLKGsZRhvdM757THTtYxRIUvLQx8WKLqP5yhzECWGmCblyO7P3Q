@@ -1,27 +1,27 @@
 [
   {
     "name": "Staging 001",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-001",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-001",
     "securityKey": "Z60gftKe9sei3xOZhvvDa0StkVILKR3j5MBM9ygi1zg="
   },
   {
     "name": "Staging 002",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-002",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-002",
     "securityKey": "yXz1FhADXB8f03WYcdhRjjHsJeuHH8NfKxDICALniFvs4rkQTfNt/YzqkHsnxi8W"
   },
   {
     "name": "Staging 003",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-003",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-003",
     "securityKey": "OSCMb90Y5p/RxGWWH/SvJK0mn5A0pNDQLk3pZMjfV0zbAOu6jzKv4NUaGOHw2fwo"
   },
   {
     "name": "Staging 004",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-004",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-004",
     "securityKey": "tiYm0q36LNnk42cBo4JTymw6D+y2l0+ejs78z2BIBCrWIlbKJBhcevFZ0jLa10lK"
   },
   {
     "name": "Staging 005",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-005",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-005",
     "securityKey": "wsTFnTpvFcP3MLegNKfHktg3vlsmd8SREdsGMUuTB95mm5X/HUoDz837MstALWco",
     "branchCode": "005",
     "branchName": "BRANCH-4",
@@ -29,67 +29,67 @@
   },
   {
     "name": "Staging 006",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-006",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-006",
     "securityKey": "xbPeYDaPFG7bqnNO7WThWRDrBhKggz+ls/6rV38zyA1iqe7dPg8Pc2EElmrUq+2v"
   },
   {
     "name": "Staging 007",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-007",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-007",
     "securityKey": "49BvCVhgjRxx3kbE4hiCLZrq8VKjKpKt0zfW1pJg9wClpcXOttM6cV83UtitMAx3"
   },
   {
     "name": "Staging 008",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-008",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-008",
     "securityKey": "Yqu34/kLbewAY1NCH3lKjUEaZFFNtoxpiLzKGI8JrcdrUmxO9ud8dZO2Nx/mQPAE"
   },
   {
     "name": "Staging 009",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-009",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-009",
     "securityKey": "TcUhxZK0c/6Qm94eh3r9EHY/y/heifP0+PKRuNrn0k+w2TE12sszCCUzoL2EzDc8"
   },
   {
     "name": "Staging 010",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-010",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-010",
     "securityKey": "CBTPcj+MSaEKTKytCACgwjUA6T0DHR0n5lGmK4hx9l9g8EqyumFpnCjaZ0pabbx4"
   },
   {
     "name": "Staging 011",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-011",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-011",
     "securityKey": "7yQfq2OjY8HT+sHB0q+rZ9yCiJAxmBsdmk6cQn58hfD4UO9EB9ZEDVP9jYWTNEMa"
   },
   {
     "name": "Staging 012",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-012",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-012",
     "securityKey": "SG11TpOZW1Lw6B21qdj8oPK9jDoInfahqG55X8NhQZvq+TrjUK70xMp5SqIdO6QL"
   },
   {
     "name": "Staging 013",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-013",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-013",
     "securityKey": "Z+gLqu2YXlPbzDXsJpYXtuv67rIRoCpNA4I14G1+tdLWQYI6tBmRGhx5bVa3MFJ9"
   },
   {
     "name": "Staging 014",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-014",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-014",
     "securityKey": "gjhCUlWyrwtFexx81mH14KzSuAfKn29IfRDTxC1UHFad6wzT0O+gMldd9PjJ/ss4"
   },
   {
     "name": "Staging 015",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-015",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-015",
     "securityKey": "9LQnvAgQlLUBqQ0VXpEfuQ3rXUyiXIloIyjcEpdrbILCnDCWDxUnsOTIW13Mvw4g"
   },
   {
     "name": "Staging 016",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-016",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-016",
     "securityKey": "UgcH95qCUOVvjqhXfkBlE5ibHjZuOhukDWZftUKyNtYyyg84FHiT+yEm0sFVRNN5"
   },
   {
     "name": "Staging 017",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-017",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-017",
     "securityKey": "N+T/oT9StzG3ppa7Ru1TwsQFXMhIFqarskrNbGOBJ3DGRzBYBebqzMOW1JJmV3dz"
   },
   {
     "name": "Staging 018",
-    "endpoint": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-018",
+    "vsdc": "https://vsdcstaging.vat-gh.com/vsdc/api/v1/taxpayer/CXX000000YY-018",
     "securityKey": "7Ac4CQbNbmjE8TUuaTeRbOhvaUxXo5To/bl71nrUsQ7hmbtf9Nl0nM4i8827RFbL"
   }
 ]
