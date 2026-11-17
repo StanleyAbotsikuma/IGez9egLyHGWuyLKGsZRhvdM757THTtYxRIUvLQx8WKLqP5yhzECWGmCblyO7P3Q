@@ -1,4 +1,9 @@
-[
+[ {
+    "name": "MR MARK STREGE 001",
+    "vsdc": "https://evat-vsdc.persolcloud.com/api/v1/taxpayer/Q0000437808-001",
+    "securityKey": "4czwAA/N+eorsrl2klyNljdV3r1jdkd28daihD1ET7YNIrViq8kv6U7ILZ5HU4pY"
+  }
+   ,
    {
     "name": "LIBERTY WORLD FOUNDATION 001",
     "vsdc": "https://evat-vsdc.persolcloud.com/api/v1/taxpayer/C0003318656-001",
