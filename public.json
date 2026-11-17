@@ -1,5 +1,11 @@
 [
    {
+    "name": "LIBERTY WORLD FOUNDATION 001",
+    "vsdc": "https://evat-vsdc.persolcloud.com/api/v1/taxpayer/C0003318656-001",
+    "securityKey": "IZvmC77ysJkrVvYvgmaZCdk4minzQ5VWh5vX3fJczM1GYIRskeHdAyfZoAAUuKMb"
+  }
+  ,
+   {
     "name": "ANTADO 001",
     "vsdc": "https://evat-vsdc.persolcloud.com/api/v1/taxpayer/C0012998850-001",
     "securityKey": "eFkicn7+E7vfPpJb23vlwCHNh72FvU9zU9UBj6ZcJ5iuWOKwjirqh76R0zjbxqut"
