@@ -1,6 +1,12 @@
 [
 
       {
+    "name": "WALIU MALLAM YAKUBU SPIRITUAL CENTRE 002",
+    "vsdc": "https://evat-vsdc.persolcloud.com/api/v1/taxpayer/C000339607X-002",
+    "securityKey": "7EGrPfNQBkXrqBOdC4pyh2Rz5LkeFwtZzTng/4Ts5XU4/RQ2U2nxw2bEbYVH1nMw"
+  }
+   ,
+      {
     "name": "WALIU MALLAM YAKUBU SPIRITUAL CENTRE 001",
     "vsdc": "https://evat-vsdc.persolcloud.com/api/v1/taxpayer/C000339607X-001",
     "securityKey": "uZnAFVGma++7NVEzgDSQQ4Q7NY2dno/u5TI6O+5CGqtWpPxaQAF+QDhf+eIJ5+Wu"
